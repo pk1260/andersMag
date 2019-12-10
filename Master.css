@@ -1,0 +1,23 @@
+#M-icon {
+  fill: rgb(237,30,121);
+}
+#MA-icon, .Square-Fill, #letters {
+  fill: white;
+  stroke: black;
+}
+
+#Hart-icon {
+  fill: crimson;
+  text-align: center;
+}
+
+#andersMag {
+  width: 800px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+}
+
+
